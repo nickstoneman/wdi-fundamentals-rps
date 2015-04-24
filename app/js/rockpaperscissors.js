@@ -115,7 +115,7 @@ function getWinner(playerMove,computerMove) {
         }
         
 
-//    console.log("The score is... "); 
+    //console.log("The score is... "); 
     console.log ("The final score is... ");
     return [playerWins, computerWins];
         
